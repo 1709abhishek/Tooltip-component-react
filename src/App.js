@@ -24,6 +24,7 @@ export class App extends Component {
   render() {
     return (
       <div className="App">
+        <h1>Input position of tooltip</h1><br></br>
         <input
           type='text'
           value={this.state.input}
