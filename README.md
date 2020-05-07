@@ -1,4 +1,4 @@
-![](public/Untitled_ May 7, 2020 6_35 PM.gif)
+![](Untitled_ May 7, 2020 6_35 PM.gif)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
