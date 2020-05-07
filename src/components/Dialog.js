@@ -10,7 +10,7 @@ export class Dialog extends Component {
             case 'right': return prefix + 'Right'
             case 'bottom': return prefix + 'Bottom'
             case 'left': return prefix + 'Left'
-            // case default: return prefix + 'Top'
+            default: return prefix + 'Top'
         }
     }
 

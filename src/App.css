@@ -94,3 +94,7 @@
   width: 8rem;
   background-color: magenta;
 }
+
+input {
+  border-color: rgb(221, 52, 52);
+}

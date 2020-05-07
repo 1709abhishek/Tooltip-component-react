@@ -25,11 +25,13 @@ export class App extends Component {
     return (
       <div className="App">
         <h1>Input position of tooltip</h1><br></br>
+        <label>Input here: </label>
         <input
           type='text'
           value={this.state.input}
           onChange={this.handleInput}
-        />
+        /><br></br>
+        <span>Default tooltip position is top</span>
         <Tooltip pos={this.state.input} />
       </div>
     )
